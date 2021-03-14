@@ -1,6 +1,7 @@
 ## Banco de Dados - Curso em Vídeo - Gustavo Guanabara
 
 Para fins de estudos de banco de dados, foi desenvolvido nas aulas as seguintes consultas, de um banco de dados já existente, no Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
+
 Link do curso: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
 
 ## 📦 Status do Banco de Dados 
